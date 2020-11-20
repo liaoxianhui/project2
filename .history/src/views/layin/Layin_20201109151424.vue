@@ -1,0 +1,39 @@
+<template>
+  <div class="b-image">
+   
+  </div>
+</template>
+
+<script>
+export default {
+  name: "",
+  props: {},
+  data() {
+    return {};
+  },
+  components: {},
+  methods: {},
+  mounted() {},
+  computed: {},
+  watch: {},
+};
+</script>
+
+<style lang='scss' scoped>
+.b-image {
+  background: url("https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2302918245,2826021973&fm=26&gp=0.jpg");
+  padding: 100px 20px 20px 20px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.lrtitle{
+    margin-bottom: 60px;
+    font-size: 20px;
+    margin-left: 10px;
+    border: 0;
+    font-weight: bolder;
+}
+</style>

@@ -1,0 +1,31 @@
+.df {
+    display: flex;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.fw-w {
+    flex-wrap: wrap;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.fie {
+    float: inline-end;
+}
+
+.fis {
+    float: inline-start;
+}

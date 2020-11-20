@@ -1,0 +1,63 @@
+.df {
+    display: flex;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.fw-w {
+    flex-wrap: wrap;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.fie {
+    float: inline-end;
+}
+
+.fis {
+    float: inline-start;
+}
+
+.m20 {
+    margin: 20px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.cr {
+    color: red;
+}
+
+.ta-c {
+    text-align: center;
+}
+
+.td-u {
+    text-decoration: underline;
+}
+
+.td-lt {
+    text-decoration: line-through;
+}

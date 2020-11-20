@@ -1,0 +1,49 @@
+<template>
+  <div>
+    <div class="m-header df jc-sb ai-c">
+      <div class="ml20" @click="clickMy"><van-icon name="arrow-left" /></div>
+      <div>订单结算</div>
+      <div class="mr20" style="opacity: 0"><van-icon name="arrow-left" /></div>
+    </div>
+    <div class=" df">
+        <div><van-icon name="location-o" /></div>
+        <div>
+            <div class=" df">
+              <div>1</div>
+              <div>2</div>
+            </div>
+            <div>2</div>
+        </div>
+    </div>
+    <div></div>
+  </div>
+</template>
+
+<script>
+import { Toast } from "vant";
+
+export default {
+  name: "",
+  props: {},
+  data() {
+    return {};
+  },
+  components: {},
+  methods: {
+    clickMy() {
+      this.$router.go("-1");
+    },
+  },
+  mounted() {},
+  computed: {},
+  watch: {},
+};
+</script>
+
+<style lang='scss' scoped>
+.m-header {
+  height: 50px;
+  line-height: 50px;
+  background: #eee;
+}
+</style>

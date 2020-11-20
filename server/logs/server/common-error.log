@@ -1,0 +1,1553 @@
+2020-07-02 11:35:24,823 ERROR 10344 [-/127.0.0.1/-/17ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:34:27,039 ERROR 10344 [-/127.0.0.1/-/5ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-07-02 13:36:46,478 ERROR 10344 [-/127.0.0.1/-/2ms POST /v1/saveUser] nodejs.CastError: Cast to ObjectId failed for value "ad176e397858448a854dc50371334faf" at path "_id" for model "User"
+    at model.Query.exec (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4351:21)
+    at model.Query.Query.then (F:\项目练习\shoppingmall\server\node_modules\_mongoose@5.9.19@mongoose\lib\query.js:4443:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"ad176e397858448a854dc50371334faf\""
+kind: "ObjectId"
+value: "ad176e397858448a854dc50371334faf"
+path: "_id"
+reason: {}
+pid: 10344
+hostname: DESKTOP-45EGDJV
+
+2020-11-16 13:50:39,800 ERROR 2252 [-/127.0.0.1/-/9ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '238bc2e023844769a6b67d9a4c04b2ea': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '238bc2e023844769a6b67d9a4c04b2ea': '' }\""
+kind: "string"
+value: {"238bc2e023844769a6b67d9a4c04b2ea":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 13:50:43,627 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '418fc60784d04e71beffe1ce5174c947': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '418fc60784d04e71beffe1ce5174c947': '' }\""
+kind: "string"
+value: {"418fc60784d04e71beffe1ce5174c947":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 13:50:45,444 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ af117ed90b624318914fd4b42001216c: '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ af117ed90b624318914fd4b42001216c: '' }\""
+kind: "string"
+value: {"af117ed90b624318914fd4b42001216c":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 13:51:14,435 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '238bc2e023844769a6b67d9a4c04b2ea': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '238bc2e023844769a6b67d9a4c04b2ea': '' }\""
+kind: "string"
+value: {"238bc2e023844769a6b67d9a4c04b2ea":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 13:51:16,658 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '418fc60784d04e71beffe1ce5174c947': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '418fc60784d04e71beffe1ce5174c947': '' }\""
+kind: "string"
+value: {"418fc60784d04e71beffe1ce5174c947":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 13:51:53,232 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 14:01:42,076 ERROR 2252 [-/127.0.0.1/-/4ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '238bc2e023844769a6b67d9a4c04b2ea': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '238bc2e023844769a6b67d9a4c04b2ea': '' }\""
+kind: "string"
+value: {"238bc2e023844769a6b67d9a4c04b2ea":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 14:01:53,886 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '238bc2e023844769a6b67d9a4c04b2ea': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '238bc2e023844769a6b67d9a4c04b2ea': '' }\""
+kind: "string"
+value: {"238bc2e023844769a6b67d9a4c04b2ea":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 14:59:39,105 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 14:59:42,223 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:00:22,210 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:00:25,417 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:02:29,119 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:02:30,896 ERROR 2252 [-/127.0.0.1/-/2ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '238bc2e023844769a6b67d9a4c04b2ea': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '238bc2e023844769a6b67d9a4c04b2ea': '' }\""
+kind: "string"
+value: {"238bc2e023844769a6b67d9a4c04b2ea":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:02:33,040 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '418fc60784d04e71beffe1ce5174c947': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '418fc60784d04e71beffe1ce5174c947': '' }\""
+kind: "string"
+value: {"418fc60784d04e71beffe1ce5174c947":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:22:34,202 ERROR 2252 [-/127.0.0.1/-/1ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-16 15:22:36,768 ERROR 2252 [-/127.0.0.1/-/3ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{ '24afea564e5248b5a2bc59da95f09911': '' }" at path "cid" for model "ShopList"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ '24afea564e5248b5a2bc59da95f09911': '' }\""
+kind: "string"
+value: {"24afea564e5248b5a2bc59da95f09911":""}
+path: "cid"
+reason: null
+pid: 2252
+hostname: student-PC
+
+2020-11-17 11:25:12,669 ERROR 3408 [-/127.0.0.1/-/18ms POST /v1/setDefaultAddress] nodejs.CastError: Cast to ObjectId failed for value "" at path "_id" for model "Address"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"\""
+kind: "ObjectId"
+value: ""
+path: "_id"
+reason: {}
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:25:16,865 ERROR 3408 [-/127.0.0.1/-/5ms POST /v1/setDefaultAddress] nodejs.CastError: Cast to ObjectId failed for value "" at path "_id" for model "Address"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"\""
+kind: "ObjectId"
+value: ""
+path: "_id"
+reason: {}
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:41:01,708 ERROR 3408 [-/127.0.0.1/-/5ms POST /v1/deleteAddress] nodejs.CastError: Cast to ObjectId failed for value "{ id: '5fb33be5a1162d0d5021b91a' }" at path "_id" for model "Address"
+    at model.Query.exec (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4385:21)
+    at model.Query.Query.then (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\query.js:4477:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+messageFormat: undefined
+stringValue: "\"{ id: '5fb33be5a1162d0d5021b91a' }\""
+kind: "ObjectId"
+value: {"id":"5fb33be5a1162d0d5021b91a"}
+path: "_id"
+reason: {}
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:52:06,117 ERROR 3408 [-/127.0.0.1/-/22ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb34305a1162d0d5021b928') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:52:17,710 ERROR 3408 [-/127.0.0.1/-/6ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c3fa1162d0d5021b926') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:54:16,932 ERROR 3408 [-/127.0.0.1/-/3ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c3fa1162d0d5021b926') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:56:28,084 ERROR 3408 [-/127.0.0.1/-/2ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c3fa1162d0d5021b926') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:56:32,688 ERROR 3408 [-/127.0.0.1/-/5ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c9fa1162d0d5021b927') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:58:02,400 ERROR 3408 [-/127.0.0.1/-/5ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c9fa1162d0d5021b927') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:58:32,360 ERROR 3408 [-/127.0.0.1/-/3ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c9fa1162d0d5021b927') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:58:39,053 ERROR 3408 [-/127.0.0.1/-/6ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c9fa1162d0d5021b927') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-17 11:59:03,971 ERROR 3408 [-/127.0.0.1/-/9ms POST /v1/address] nodejs.MongoError: E11000 duplicate key error collection: shoppingMall.address index: _id_ dup key: { : ObjectId('5fb33c3fa1162d0d5021b926') }
+    at Function.create (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\error.js:57:12)
+    at toError (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\utils.js:123:22)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongodb@3.6.3@mongodb\lib\core\connection\pool.js:405:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+driver: true
+name: "MongoError"
+index: 0
+code: 11000
+pid: 3408
+hostname: student-PC
+
+2020-11-18 14:54:53,086 ERROR 2608 [-/127.0.0.1/-/9ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 14:54:57,426 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 14:59:04,081 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:00:23,610 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:14:27,280 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:19:04,408 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:21:46,393 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:29:51,486 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:178:42)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:38:13,426 ERROR 2608 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:22,086 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:23,737 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:24,111 ERROR 2608 [-/127.0.0.1/-/6ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:25,113 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:25,339 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:39:25,362 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:43:24,908 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 15:46:55,620 ERROR 2608 [-/127.0.0.1/-/117ms POST /v1/order] nodejs.ValidationError: OrderList validation failed: mallPrice: Cast to Number failed for value "NaN" at path "mallPrice", order_list.0.mallPrice: Cast to Number failed for value "NaN" at path "mallPrice", order_list.1.mallPrice: Cast to Number failed for value "NaN" at path "mallPrice"
+    at model.Document.invalidate (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\model.js:106:12)
+    at new model (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_mongoose@5.10.13@mongoose\lib\model.js:4689:15)
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:223:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+errors: {"mallPrice":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"order_list.0.mallPrice":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}},"order_list.1.mallPrice":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}}
+_message: "OrderList validation failed"
+pid: 2608
+hostname: student-PC
+
+2020-11-18 16:19:31,088 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:19:08,970 ERROR 2608 [-/127.0.0.1/-/19ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:19:32,384 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:20:21,859 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:21:39,176 ERROR 2608 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:21:43,099 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:21:47,217 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:22:15,152 ERROR 2608 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:22:42,525 ERROR 2608 [-/127.0.0.1/-/5ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:24:47,736 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:25:19,625 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:26:35,119 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:26:41,027 ERROR 2608 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:28:17,377 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:28:21,941 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:28:53,089 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:28:54,576 ERROR 2608 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:28:54,932 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:37:15,253 ERROR 2608 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-18 17:38:26,206 ERROR 2608 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:13
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+    at async notfound (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\notfound.js:5:5)
+    at async meta (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg@2.29.1@egg\app\middleware\meta.js:17:5)
+
+pid: 2608
+hostname: student-PC
+
+2020-11-19 15:27:06,725 ERROR 6040 [-/127.0.0.1/-/4ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 15:27:09,155 ERROR 6040 [-/127.0.0.1/-/1ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 15:30:59,238 ERROR 6040 [-/127.0.0.1/-/2ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 15:47:06,865 ERROR 6040 [-/127.0.0.1/-/3ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:09:40,560 ERROR 6040 [-/127.0.0.1/-/42ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:13:15,730 ERROR 6040 [-/127.0.0.1/-/3ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:14:14,578 ERROR 6040 [-/127.0.0.1/-/33ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:14:18,293 ERROR 6040 [-/127.0.0.1/-/23ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:18:47,386 ERROR 6040 [-/127.0.0.1/-/27ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:19:19,531 ERROR 6040 [-/127.0.0.1/-/21ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:19:23,774 ERROR 6040 [-/127.0.0.1/-/15ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:27:42,856 ERROR 6040 [-/127.0.0.1/-/1ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:28:03,271 ERROR 6040 [-/127.0.0.1/-/2ms POST /v1/goodsOne/comment] nodejs.TypeError: _base64.includes is not a function
+    at ToolsService.getUploadFile (C:\Users\student\Desktop\js\11.08\project2\server\app\service\tools.js:28:21)
+    at OperatingGoodsController.comment (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\operatingGoods.js:249:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:56
+
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:32:46,314 ERROR 6040 [-/127.0.0.1/-/9ms POST /v1/goodsOne/comment] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\student\Desktop\js\11.08\project2\server\app\public\avatar\16057819663057aabbm98ac97+2bg55faa451daad95410140116f5.png'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\student\Desktop\js\11.08\project2\server\app\public\avatar\16057819663057aabbm98ac97+2bg55faa451daad95410140116f5.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\student\\Desktop\\js\\11.08\\project2\\server\\app\\public\\avatar\\16057819663057aabbm98ac97+2bg55faa451daad95410140116f5.png"
+name: "ENOENTError"
+pid: 6040
+hostname: student-PC
+
+2020-11-19 18:33:46,354 ERROR 6040 [-/127.0.0.1/-/1ms POST /v1/goodsOne/comment] nodejs.ENOENTError: ENOENT: no such file or directory, open 'C:\Users\student\Desktop\js\11.08\project2\server\app\public\avatar\16057820263537aabbm98ac97+2bg55faa451daad95410140116f5.png'
+ENOENTError: ENOENT: no such file or directory, open 'C:\Users\student\Desktop\js\11.08\project2\server\app\public\avatar\16057820263537aabbm98ac97+2bg55faa451daad95410140116f5.png'
+errno: -4058
+code: "ENOENT"
+syscall: "open"
+path: "C:\\Users\\student\\Desktop\\js\\11.08\\project2\\server\\app\\public\\avatar\\16057820263537aabbm98ac97+2bg55faa451daad95410140116f5.png"
+name: "ENOENTError"
+pid: 6040
+hostname: student-PC
+
+2020-11-20 09:18:21,219 ERROR 2168 [-/127.0.0.1/-/3ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2168
+hostname: student-PC
+
+2020-11-20 09:21:27,453 ERROR 2168 [-/127.0.0.1/-/1ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2168
+hostname: student-PC
+
+2020-11-20 09:21:45,630 ERROR 2168 [-/127.0.0.1/-/1ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2168
+hostname: student-PC
+
+2020-11-20 09:21:49,516 ERROR 2168 [-/127.0.0.1/-/2ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2168
+hostname: student-PC
+
+2020-11-20 09:22:00,808 ERROR 2168 [-/127.0.0.1/-/1ms POST /v1/evaluateOne] nodejs.Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+    at new ObjectID (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:59:11)
+    at ObjectID [as ObjectId] (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_bson@1.1.5@bson\lib\bson\objectid.js:40:43)
+    at UserController.evaluateOne (C:\Users\student\Desktop\js\11.08\project2\server\app\controller\api\user.js:453:52)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at C:\Users\student\Desktop\js\11.08\project2\server\app\middleware\isLogin.js:15:19
+    at dispatch (C:\Users\student\Desktop\js\11.08\project2\server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+
+pid: 2168
+hostname: student-PC
+

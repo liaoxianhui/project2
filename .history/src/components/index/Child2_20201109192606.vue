@@ -1,0 +1,39 @@
+<template>
+  <div>
+      <div class="rotation">
+      <van-swipe  style="width:100%" :autoplay="3000">
+        <van-swipe-item v-for="(image, index) in images" :key="index" style="width:100%">
+          <img v-lazy="image.image" width="100%"/>
+        </van-swipe-item>
+      </van-swipe>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: '',
+  props:{},
+  data () {
+    return {
+        images: [],
+    }
+  },
+  components: {},
+  methods: {},
+  mounted() {
+      this.$api.getRecommend().then(res=>{
+      console.log(res.data.slides);
+      this.images=res.data.slides
+    }).catch(err=>{
+      console.log(err);
+    })
+  },
+  computed: {},
+  watch: {}
+}
+</script>
+
+<style lang='scss' scoped>
+
+</style>
